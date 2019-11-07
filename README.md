@@ -1,11 +1,5 @@
 # epicgamer
 
-<head>
-<script>
-var encrypted_channel_id='y6u1W372PZh2MfzxwHQBKA';
-</script>
-<script async src='/scripts/hosted.js'></script>
-<link rel='stylesheet' href='/style.css'></head>
 <!DOCTYPE html>
 <html>
    <head>
